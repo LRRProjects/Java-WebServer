@@ -1,7 +1,7 @@
 # Java-WebServer
 
-Created a Java webserver using Socket, ServerSockets, DataOutputStream, InputStream,
-BufferedReader classes. The webserver was used to host images. 
+Created a Java web server using Socket, ServerSockets, DataOutputStream, InputStream, BufferedReader classes.
+The web server was used to host images. 
 
 serverhandler class:
 ![image](https://user-images.githubusercontent.com/102123401/169632889-a036e40c-7cc1-48ff-b287-2c5097e27687.png)
